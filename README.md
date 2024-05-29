@@ -2,7 +2,7 @@
 Into tech since I was able to read. Have worked in QA and light scripting roles before. Let's grab a beverage and chat someday!
 
 ### Langauges I try to speak.
-![image]({https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white})
+![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 ![image]({https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white})
 
