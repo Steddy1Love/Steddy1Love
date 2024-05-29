@@ -3,7 +3,9 @@ Into tech since I was able to read. Have worked in QA and light scripting roles 
 
 ### Langauges I try to speak.
 ![image]({https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white})
+
 ![image]({https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white})
+
 ![image]({https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white})
 ![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
 ![image]({https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white})
@@ -31,3 +33,7 @@ Into tech since I was able to read. Have worked in QA and light scripting roles 
 ![image]({https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white})
 ![image]({https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white})
 ![image]({https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green})
+
+### Main platform
+<img src="{https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white}" />
+	
